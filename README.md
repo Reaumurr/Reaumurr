@@ -3,7 +3,7 @@
 
 ### 👨🏽‍💻 About Me
 
-I'm an Experienced Finance & Accounting Specialist and Human Resource & IT Support professional transitioning into a Data Scientist role following successful completion of Hacktiv8 Full Time Data Scientist Bootcamp. Proficient in utilizing accounting applications including Zahir, SAP, and e-faktur, with a comprehensive understanding of Tax regulations. Skilled in networking and proficient in web-based programming languages. My unique professional journey is underscored by years of processing, analyzing data, and employing creative problem-solving techniques.
+I am a Data Scientist transitioning from a Finance & Accounting role with solid experience in data processing and analysis. A graduate of the Hacktiv8 Full-Time Data Science Bootcamp, I am skilled in machine learning, data visualization, and developing data pipelines. Proficient in Python, SQL, and various visualization tools such as Tableau. Through diverse projects, I have successfully built predictive models, optimized business processes, and delivered data-driven solutions that enhanced efficiency and business outcomes. I am passionate about continuously learning and innovating to solve complex business challenges through data-driven approaches.
 
 **🔍 What I'm Working On**: Sharpening my skills in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP).
 
